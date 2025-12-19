@@ -1,0 +1,3 @@
+BOOK,Harry Potter,105,Ujjwal Neupane
+EBOOK,Spiderman,200,Ujjwal Neupane,0.6GB
+BOOK,ABC,125,ABC
